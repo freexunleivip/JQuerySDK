@@ -7,7 +7,7 @@
 当然你也可以基于这个简单的接口开发出自己独有的迅雷会员账号分享器。<br/>
 分享迅雷VIP会员账号，迅雷离线下载,提高您的迅雷下载速度！<br/>
 灰常简单获取接口~希望对雷友们有所帮助！<br/>
-> 迅雷VIP账号调用来源：[九秒分享](https://www.9sep.org)->[九秒分享●迅雷钻石会员账号每日持续共享ing-关注免费获取最新迅雷白金VIP账号~9Sep.Org](https://www.9sep.org/free-xunlei-vip)
+> 迅雷VIP账号调用来源：[九秒分享](https://www.9sep.org)->[每日迅雷钻石会员账号持续共享ing-关注免费获取最新迅雷白金VIP账号~9Sep.Org](https://www.9sep.org/free-xunlei-vip)
 
 <br/>
 Enjoy~<br/>
